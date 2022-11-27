@@ -1,2 +1,3 @@
 Introducimos contenido para ver qué ocurre en git.
 Modificamos de nuevo el archivo, para hacer otro git commit.
+Otra modificación.
